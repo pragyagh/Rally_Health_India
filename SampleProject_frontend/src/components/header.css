@@ -1,0 +1,57 @@
+
+
+.header {
+    display: flex;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+    color:#196ecf;
+    background-color: white;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgrey;
+}
+
+
+
+.header--title {
+    font-size: 1.25rem;
+    color:#196ecf;
+    margin-right: auto;
+    font-size: 30px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+.header--profile {
+    font-size: 0.75rem;
+    font-weight: 500;
+    background: white;
+    margin-right: 30px;
+}
+.header-ProfileBtn{
+    background-color: #196ecf;
+    color: white;
+    height: 33px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border: none;
+    font-size: 16px;
+    font-weight: 300;
+    cursor: pointer;
+}
+.container {
+    color: #2d2d39;
+    height: 140px;
+    width: 100%;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: 300;
+    padding-top: 10px;
+    background-color: white;
+}
+
